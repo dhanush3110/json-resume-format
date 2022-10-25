@@ -1,0 +1,41 @@
+let myresume = [
+    { "basics" : { 
+        fname:"dhanush",
+        lname:"d",
+        education:"diploma in robotics",
+        college:"murugappa college",
+        location:"chennai",
+        contact:9600888768,
+        
+    },
+
+    },
+
+    { "Area of interest": 
+        ["music", "football", "chess", "bikeriding"]
+    },
+
+   {
+    "languages" :{
+        flanguage:"tamil",
+   secondlanguage:"english",
+       other:"telugu"
+    },
+
+   },
+
+   { "experience" :{ 
+              firstcompany:"flipkart",
+              experience:"1 year",
+              secondcompany:"five-star buissness finance",
+              experience:"1 year",
+              thirdcompany:"rathna packaging pvt ltd",
+              experience:"3 years",
+              total:"5 years"     
+   },
+},
+
+  console.log(myresume)
+
+    
+];
